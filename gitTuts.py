@@ -3,4 +3,4 @@
 print("Hello ITP270")
 
 x = "ITP270"
-print("Hello ".format(x))
+print("Hello {} ".format(x))
